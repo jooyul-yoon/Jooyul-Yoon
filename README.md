@@ -3,6 +3,7 @@
 # JOOYUL YOON 🌎
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooyul-yoon&count_bg=%239A9A9A&title_bg=%232B4C8A&icon=react.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Jooyul's github stats](https://github-readme-stats.vercel.app/api?username=jooyul-yoon&show_icons=true)
 [![Jooyul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyul-yoon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jooyul-yoon)
 
