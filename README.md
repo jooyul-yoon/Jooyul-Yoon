@@ -4,9 +4,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooyul-yoon&count_bg=%239A9A9A&title_bg=%232B4C8A&icon=react.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Jooyul's github stats](https://github-readme-stats.vercel.app/api?username=jooyul-yoon&show_icons=true)
-[![Jooyul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyul-yoon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jooyul-yoon)
-
 ### Platforms & Languages💪
 ##### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
@@ -26,6 +23,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+![Jooyul's github stats](https://github-readme-stats.vercel.app/api?username=jooyul-yoon&show_icons=true)
+[![Jooyul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyul-yoon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jooyul-yoon)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JuyeolYoon?theme=nord&font=Baloo%20Bhai%202)
 
  
 # :mailbox_with_mail: Contacts
