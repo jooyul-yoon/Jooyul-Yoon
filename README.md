@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Creative%20and%20Positive.&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Jooyul's%20Github!&descAlignY=51&descAlign=75)
 
 # JOOYUL YOON 🌎
-
+### [CV](https://scented-lyre-1a5.notion.site/Jooyul-s-Resume-8a156dff49ba4aedbbaa3d6fd18ad777?pvs=4)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooyul-yoon&count_bg=%239A9A9A&title_bg=%232B4C8A&icon=react.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ### Platforms & Languages💪
