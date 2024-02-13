@@ -36,7 +36,7 @@
 ## 🌟 Projects
 |Project name|Stacks|Role|Last update|
 |:----:|:----:|:----:|:----:|
-|[Conti:ed](https://github.com/Conti-ed/client)|React.js, Django, Sqlite|Backend|~present|
+|[Conti:ed](https://github.com/Conti-ed)|React.js, Django, Sqlite|Backend|~present|
 |[Techit](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|Backend|~present|
 |[Decide](https://github.com/likelion-sjsu/hackathon)|React.js, Django, Sqlite|full-stack|2024-01-28|
 |[InnSight](https://github.com/trishnguyen2001/cmpe165-likehome)|React.js, flask, firebase|full-stack|2023-11-27|
