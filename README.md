@@ -1,7 +1,7 @@
-# 🧑🏻‍💻 JOOYUL YOON : Full-stack
+# 🧑🏻‍💻 JOOYUL YOON : Full-stack 🧑🏻‍💻
 ### [Portfolio](https://scented-lyre-1a5.notion.site/Jooyul-s-Resume-8a156dff49ba4aedbbaa3d6fd18ad777?pvs=4)
 
-### 💪 Platforms & Languages
+### 💪 Platforms & Languages 💪
 #### <center>Frontend</center>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -33,16 +33,20 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🌟 Projects
+## 🌟 Projects 🌟
 |Project name|Stacks|Role|Last update|
 |:----:|:----:|:----:|:----:|
 |[Conti:ed - Playlist Sharing Platform](https://github.com/Conti-ed)|React.js, Django, Sqlite|backend|~present|
 |[Techit Together - Online lecture Dashboard](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|backend|~present|
-|[Decide: AI Recommendation - Hackathon Winner](https://github.com/likelion-sjsu/hackathon)|React.js, Django, Sqlite|full-stack|2024-01-28|
 |[InnSight: Accomodation Website](https://github.com/trishnguyen2001/cmpe165-likehome)|React.js, flask, firebase|full-stack|2023-11-27|
-|[SVK: Booking App](https://github.com/chaejunlee/svk)|Next.js, Prisma|full-stack|2023-11-18|
 |[Lionstagram - like instagram for Likelion members](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
 |[Card.io - Workspace Platform](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
+
+## 🔥 Contest 🔥
+|Host|Project Name|Stacks|Role|Last update|
+|:----:|:----:|:----:|:----:|:----:|
+|LikeLion US|[Decide: AI Recommendation app - !!!Winner!!!](https://github.com/likelion-sjsu/hackathon)|React.js, Django, Sqlite|full-stack|2024-01-28|
+|Silicon Valley Korea|[SVK Booking App](https://github.com/chaejunlee/svk)|Next.js, Prisma|full-stack|2023-11-18|
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
