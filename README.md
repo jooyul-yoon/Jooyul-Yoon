@@ -44,6 +44,9 @@
 |[Lionstagram](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
 |[Card.io](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
 
+![Jooyul's github stats](https://github-readme-stats.vercel.app/api?username=jooyul-yoon&show_icons=true)
+[![Jooyul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyul-yoon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jooyul-yoon)
+
 # :mailbox_with_mail: Contacts
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juyeolyoon@gmail.com)
