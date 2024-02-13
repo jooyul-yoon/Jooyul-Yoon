@@ -1,10 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Creative%20and%20Positive.&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20Jooyul's%20Github!&descAlignY=51&descAlign=75)
-
-# JOOYUL YOON 🌎
+# 🧑🏻‍💻 JOOYUL YOON : Full-stack
 ### [Portfolio](https://scented-lyre-1a5.notion.site/Jooyul-s-Resume-8a156dff49ba4aedbbaa3d6fd18ad777?pvs=4)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjooyul-yoon&count_bg=%239A9A9A&title_bg=%232B4C8A&icon=react.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### Platforms & Languages💪
+### 💪 Platforms & Languages
 #### <center>Frontend</center>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
@@ -18,6 +15,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 #### DB 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -35,11 +33,18 @@
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-![Jooyul's github stats](https://github-readme-stats.vercel.app/api?username=jooyul-yoon&show_icons=true)
-[![Jooyul's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jooyul-yoon&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jooyul-yoon)
+## 🌟 Projects
+|Project name|Stacks|Role|Last update|
+|:----:|:----:|:----:|:----:|
+|[Conti:ed](https://github.com/Conti-ed/client)|React.js, Django, Sqlite|Backend|~present|
+|[Techit](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|Backend|~present|
+|[Decide](https://github.com/likelion-sjsu/hackathon)|React.js, Django, Sqlite|full-stack|2024-01-28|
+|[InnSight](https://github.com/trishnguyen2001/cmpe165-likehome)|React.js, flask, firebase|full-stack|2023-11-27|
+|[SVK](https://github.com/chaejunlee/svk)|Next.js, Prisma|full-stack|2023-11-18|
+|[Lionstagram](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
+|[Card.io](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
 
 # :mailbox_with_mail: Contacts
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:juyeolyoon@gmail.com)](mailto:juyeolyoon@gmail.com)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:dbswnduf123@naver.com)](mailto:rlatngus1691@naver.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juyeolyoon@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jooyul-yoon/)
