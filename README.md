@@ -44,7 +44,7 @@
 |[Lionstagram](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
 |[Card.io](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
 
-![](./profile-3d-contrib/profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 # :mailbox_with_mail: Contacts
 <!-- [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://soo-vely-dev.tistory.com/)](https://soo-vely-dev.tistory.com/) -->
