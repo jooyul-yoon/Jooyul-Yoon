@@ -36,13 +36,13 @@
 ## 🌟 Projects
 |Project name|Stacks|Role|Last update|
 |:----:|:----:|:----:|:----:|
-|[Conti:ed](https://github.com/Conti-ed)|React.js, Django, Sqlite|Backend|~present|
-|[Techit](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|Backend|~present|
-|[Decide](https://github.com/likelion-sjsu/hackathon)|React.js, Django, Sqlite|full-stack|2024-01-28|
-|[InnSight](https://github.com/trishnguyen2001/cmpe165-likehome)|React.js, flask, firebase|full-stack|2023-11-27|
-|[SVK](https://github.com/chaejunlee/svk)|Next.js, Prisma|full-stack|2023-11-18|
-|[Lionstagram](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
-|[Card.io](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
+|[Conti:ed - Playlist Sharing Platform](https://github.com/Conti-ed)|React.js, Django, Sqlite|backend|~present|
+|[Techit Together - Online lecture Dashboard](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|backend|~present|
+|[Decide: AI Recommendation - Hackathon Winner](https://github.com/likelion-sjsu/hackathon)|React.js, Django, Sqlite|full-stack|2024-01-28|
+|[InnSight: Accomodation Website](https://github.com/trishnguyen2001/cmpe165-likehome)|React.js, flask, firebase|full-stack|2023-11-27|
+|[SVK: Booking App](https://github.com/chaejunlee/svk)|Next.js, Prisma|full-stack|2023-11-18|
+|[Lionstagram - like instagram for Likelion members](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
+|[Card.io - Workspace Platform](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
