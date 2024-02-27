@@ -42,7 +42,7 @@
 |[Lionstagram - like instagram for Likelion members](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
 |[Card.io - Workspace Platform](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
 
-## 🔥 Contest 🔥
+## 🔥 Hackathon 🔥
 |Host|Project Name|Stacks|Role|Last update|
 |:----:|:----:|:----:|:----:|:----:|
 |LikeLion US|[Decide: AI Recommendation app - !!!Winner!!!](https://github.com/likelion-sjsu/hackathon)|React.js, Django, Sqlite|full-stack|2024-01-28|
