@@ -36,8 +36,8 @@
 ## 🌟 Projects 🌟
 |Project name|Stacks|Role|Last update|
 |:----:|:----:|:----:|:----:|
-|[Conti:ed - Playlist Sharing Platform](https://github.com/Conti-ed)|React.js, Django, Sqlite|backend|~present|
-|[Techit Together - Online lecture Dashboard](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|backend|~present|
+|[Conti:ed - Playlist Sharing Platform](https://github.com/Conti-ed)|React.js, Django, Sqlite|backend|2024-11-15|
+|[Techit Together - Online lecture Dashboard](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|backend|2023-05-20|
 |[InnSight: Accomodation Website](https://github.com/trishnguyen2001/cmpe165-likehome)|React.js, flask, firebase|full-stack|2023-11-27|
 |[Lionstagram - like instagram for Likelion members](https://github.com/jooyul-yoon/SJSULikeLionJava)|Springboot, MySQL, RDS, Docker|full-stack|2023-10-23|
 |[Card.io - Workspace Platform](https://github.com/cardotio)|React.js, typescript, Springboot, MySQL|full-stack|2022-12-09|
