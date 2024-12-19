@@ -35,8 +35,8 @@
 
 ## 🌟 Projects 🌟
 |Project name|Stacks|Role|Last update|
-|:----:|:----:|:----:|:----:||
-|[DocuMiner - Legal Documents Summarizer w/ Chatbot](https://github.com/orgs/CMPE195-DocuMiner/repositories)|React.js, Django, PostgreSQL|full-stack|2023-05-20|
+|:----:|:----:|:----:|:----:|
+|[DocuMiner - Legal Documents Summarizer](https://github.com/orgs/CMPE195-DocuMiner/repositories)|React.js, Django, PostgreSQL|full-stack|2024-12-13|
 |[Conti:ed - Playlist Sharing Platform](https://github.com/Conti-ed)|React.js, Django, Sqlite|backend|2024-11-15|
 |[Techit Together - Online lecture Dashboard](https://github.com/LIKELION-Techit-Backend/techit)|React.js, Django, MySQL, RDS|backend|2023-05-20|
 |[InnSight: Accomodation Website](https://github.com/trishnguyen2001/cmpe165-likehome)|React.js, flask, firebase|full-stack|2023-11-27|
