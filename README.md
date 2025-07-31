@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Context Engineering**
 
-- 👨‍💻 All of my projects are available at [jooyul-yoon.github.io](jooyul-yoon.github.io)
+- 👨‍💻 All of my projects are available at [[jooyul-yoon.github.io](https://jooyul-yoon.github.io/)]
 
 - 📫 How to reach me **juyeolyoon@gmail.com**
 
